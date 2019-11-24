@@ -1,0 +1,2 @@
+## About
+Minimal Shifu website
